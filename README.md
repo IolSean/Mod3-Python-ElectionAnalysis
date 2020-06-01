@@ -7,6 +7,7 @@ This entailed,
   3. Calcuating the count each candidate votes.
   4. Calcuating the percentage of each candidate's votes of total.
   5. Determining the winner of the election based on popular vote.
+ 
  **Challenge Overview**
  This also entailed,
   1. Listing the counties comprising the congressional district.
