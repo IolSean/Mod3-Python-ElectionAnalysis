@@ -34,7 +34,6 @@ Python 3.7.6, VS Code 1.45.1
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
   3. The country with the highest count of voters is Denver County with 82.8% of total votes cast and 306,055 votes total.
-    
-    - note 1: turnout is different. It would be the count of votes cast in a county for this congressional district divided by total voting age population within a county boundary of the given congressional district
-    - note 2: a congressional district won't necessarily encompass or be encompassed by every or any country that's a part of so county population totals would not be helpful in finding the actual turnout
-    - note 3: congressional districts are redrawn following every census and the current borders are almost 10 years old.
+      - note 1: turnout is different than count of voters. Turnout would be the count of votes cast in a county for this congressional district divided by the total voting age population within a county boundary of the given congressional district
+      - note 2: a congressional district would not necessarily encompass or be encompassed by every or any country that it is a part of, so county population totals would not be helpful in finding the actual turnout
+      - note 3: congressional districts are redrawn following every census and the current borders are almost 10 years old.
