@@ -7,6 +7,12 @@ This entailed,
   3. Calcuating the count each candidate votes.
   4. Calcuating the percentage of each candidate's votes of total.
   5. Determining the winner of the election based on popular vote.
+ **Challenge Overview**
+ This also entailed,
+  1. Listing the counties comprising the congressional district.
+  2. Calcualting the county vote totals
+  3. Determining the country with the highest turnout by count and precentage
+  4. Determining the turnout by count and percentage of the other countires
 
 **Resources**
 Python 3.7.6, VS Code 1.45.1
@@ -18,7 +24,5 @@ Python 3.7.6, VS Code 1.45.1
     - Charles Casper Stockham: 23.0% (85,213)
     - Diana DeGette: 73.8% (272,892)
     - Raymon Anthony Doane: 3.1% (11,606)
-  4. The winner of the election with 73.8% of the vote is Diana De Gette
-
-**Challenge Overview**
+  4. The winner of the election with 73.8% of the vote is Diana De Gette 
 **Challenge Summary**
